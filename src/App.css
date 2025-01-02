@@ -1,0 +1,22 @@
+.App {
+   display: flex;
+   justify-content: center;
+}
+
+.TaskBoard {
+    max-width: 1200px;
+    margin-top: 2rem;
+}
+
+.title_details h1, h2{
+    font-weight: var(--font-light );
+}
+
+.title {
+    font-size: var(--title-size);
+}
+
+.subtitle {
+    font-size: 1rem;
+}
+

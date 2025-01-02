@@ -1,0 +1,15 @@
+@import-normalize;
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root {
+    --primary-font: "Outfit", serif;
+    --title-size : 2.5rem; 
+    --font-light : 400 
+
+    --yellow : #F5D565;
+    --gray : #97A3B6
+}
+
+body {
+    font-family: var(--primary-font);
+}
